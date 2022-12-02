@@ -24,16 +24,16 @@
 
 ## 💥 How to Contribute
 
-- Take a look at the existing [Issues](https://github.com/Shamininski/auction-system.git/issues) or [create a new issue](https://github.com/Shamininski/auction-system.git/issues/new/choose)!
-- [Fork the Repo](https://github.com/Shamininski/auction-system.git/fork). Then, create a branch for any issue that you are working on. Finally, commit your work.
-- Create a [Pull Request](https://github.com/Shamininski/auction-system.git/compare) (PR), which will be promptly reviewed and given suggestions for improvements by the community.
+- Take a look at the existing [Issues](https://github.com/Shamininski/auction-system/issues) or [create a new issue](https://github.com/Shamininski/auction-system/issues/new/choose)!
+- [Fork the Repo](https://github.com/Shamininski/auction-system/fork). Then, create a branch for any issue that you are working on. Finally, commit your work.
+- Create a [Pull Request](https://github.com/Shamininski/auction-system/compare) (PR), which will be promptly reviewed and given suggestions for improvements by the community.
 - Add screenshots or screen captures to your Pull Request to help us understand the effects of the changes proposed in your PR.
 
 ---
 
 ## 🌟 HOW TO MAKE A PULL REQUEST
 
-1. Start by making a Fork of the [project](https://github.com/Shamininski/auction-system.git) repository. Click on the <a href="https://github.com/Shamininski/auction-system.git/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a>Fork symbol at the top right corner.
+1. Start by making a Fork of the [project](https://github.com/Shamininski/auction-system.git) repository. Click on the <a href="https://github.com/Shamininski/auction-system/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a>Fork symbol at the top right corner.
 
 2. Clone your new fork of the repository in the terminal/CLI on your computer with the following command:
 
@@ -44,7 +44,7 @@ git clone https://github.com/<your-github-username>/auction-system.git
 3. Navigate to the newly created auction-system project directory:
 
 ```bash
-cd my-cms-pjt-13
+cd auction-system
 ```
 
 4. Set upstream command:
@@ -87,6 +87,7 @@ git commit -m "<your_commit_message>"
 ```
 
 9. Push your local commits to the remote repository:
+
 ```bash
 git push origin YourBranchName
 ```
